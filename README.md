@@ -5,3 +5,4 @@ Tutorial by Eve Porcello
   * 1: Pure React
   * 2: Refactoring elements using JSX
   * 3: Babel inline transpiling
+  * 4: Babel static transpiling with babel-cli
