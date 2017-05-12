@@ -6,3 +6,4 @@ Tutorial by Eve Porcello
   * 2: Refactoring elements using JSX
   * 3: Babel inline transpiling
   * 4: Babel static transpiling with babel-cli
+  * 5: Building with webpack
