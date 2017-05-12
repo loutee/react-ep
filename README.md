@@ -11,5 +11,6 @@ Tutorial by Eve Porcello
   * 7: Adding CSS to webpack build
 
 ## ch3 - React Components
-  * 2: Creating components with createClass() 
+  * 2: Creating components with createClass()
+  * 3: Adding component properties
 
