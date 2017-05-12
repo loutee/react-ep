@@ -8,3 +8,4 @@ Tutorial by Eve Porcello
   * 4: Babel static transpiling with babel-cli
   * 5: Building with webpack
   * 6: Loading JSON with webpack
+  * 7: Adding CSS to webpack build
