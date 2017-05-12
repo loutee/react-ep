@@ -14,3 +14,4 @@ Tutorial by Eve Porcello
   * 2: Creating components with createClass()
   * 3: Adding component properties
   * 4: Adding component methods
+  * 5: Creating components with ES6 class syntax
