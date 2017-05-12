@@ -13,4 +13,4 @@ Tutorial by Eve Porcello
 ## ch3 - React Components
   * 2: Creating components with createClass()
   * 3: Adding component properties
-
+  * 4: Adding component methods
