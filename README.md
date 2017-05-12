@@ -16,3 +16,4 @@ Tutorial by Eve Porcello
   * 4: Adding component methods
   * 5: Creating components with ES6 class syntax
   * 6: Creating stateless functional components
+  * 7: Adding react-icons
