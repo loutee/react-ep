@@ -7,3 +7,4 @@ Tutorial by Eve Porcello
   * 3: Babel inline transpiling
   * 4: Babel static transpiling with babel-cli
   * 5: Building with webpack
+  * 6: Loading JSON with webpack
