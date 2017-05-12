@@ -1,7 +1,7 @@
 # React Essential Training
 Tutorial by Eve Porcello
 
-## chp2 - Intro to JSX and Babel
+## ch2 - Intro to JSX and Babel
   * 1: Pure React
   * 2: Refactoring elements using JSX
   * 3: Babel inline transpiling
@@ -9,3 +9,7 @@ Tutorial by Eve Porcello
   * 5: Building with webpack
   * 6: Loading JSON with webpack
   * 7: Adding CSS to webpack build
+
+## ch3 - React Components
+  * 2: Creating components with createClass() 
+
