@@ -17,3 +17,6 @@ Tutorial by Eve Porcello
   * 5: Creating components with ES6 class syntax
   * 6: Creating stateless functional components
   * 7: Adding react-icons
+
+## ch4 - Props and State
+  * 1: Composing components
