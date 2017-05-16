@@ -21,3 +21,4 @@ Tutorial by Eve Porcello
 ## ch4 - Props and State
   * 1: Composing components
   * 2: Displaying child components
+  * 3: Default props
