@@ -22,3 +22,4 @@ Tutorial by Eve Porcello
   * 1: Composing components
   * 2: Displaying child components
   * 3: Default props
+  * 4: Validating with React.PropTypes
